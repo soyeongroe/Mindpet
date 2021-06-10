@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1024629347392",
+    "firebase_url": "https://mindpet-a10b8-default-rtdb.firebaseio.com",
+    "project_id": "mindpet-a10b8",
+    "storage_bucket": "mindpet-a10b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024629347392:android:fd4db64734fb1256643ba5",
+        "android_client_info": {
+          "package_name": "net.skhu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024629347392-bh56r39kma5sc0hsv8juqsf2gduknldr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFeEwYJ_6mBzWVh0KBf5yhaAt7l0LzNkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024629347392-bh56r39kma5sc0hsv8juqsf2gduknldr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

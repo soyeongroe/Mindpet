@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mindpet</string>
+    <string name="logout">로그아웃</string>
+    <string name="home">홈</string>
+    <string name="search">검색</string>
+    <string name="add_photo">사진</string>
+    <string name="favorite">좋아요</string>
+    <string name="account">계정</string>
+</resources>
